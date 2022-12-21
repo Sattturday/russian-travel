@@ -1,0 +1,8 @@
+.header {
+  min-width: 928px;
+  min-height: 52px;
+  display: flex;
+  justify-content: end;
+  align-items: flex-end;
+  position: relative;
+}
