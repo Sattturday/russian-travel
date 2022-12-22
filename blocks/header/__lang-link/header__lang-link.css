@@ -2,11 +2,9 @@
   font-size: 24px;
   line-height: 1.2;
   font-weight: normal;
-  color: #FFFFFF;
+  color: #FFF;
   margin-left: 18px;
 }
 
-.header .header__lang-link:last-child {
-    text-decoration: none;
-}
+
 

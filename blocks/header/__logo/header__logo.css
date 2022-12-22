@@ -2,7 +2,8 @@
   width: 176px;
   height: 52px;
   background-image: url(../../../images/header-logo.svg);
-  position: absolute;
+  /*position: absolute;
   top: 0;
-  left: 0;
+  left: 0;*/
+  align-self: start;
 }

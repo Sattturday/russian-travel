@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'Inter Regular';
+	font-family: 'Inter';
   font-weight: normal;
 	src: url('../fonts/inter_regular.eot'); /* IE 9 Compatibility Mode */
 	src: url('../fonts/inter_regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
@@ -10,7 +10,7 @@
 }
 
 @font-face {
-	font-family: 'Inter Bold';
+	font-family: 'Inter';
   font-weight: bold;
 	src: url('../fonts/inter_bold.eot'); /* IE 9 Compatibility Mode */
 	src: url('../fonts/inter_bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
@@ -21,7 +21,7 @@
 }
 
 @font-face {
-	font-family: 'Inter Black';
+	font-family: 'Inter';
   font-weight: 900;
 	src: url('../fonts/inter_black.eot'); /* IE 9 Compatibility Mode */
 	src: url('../fonts/inter_black.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
