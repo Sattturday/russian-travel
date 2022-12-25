@@ -2,8 +2,13 @@
   width: 176px;
   height: 52px;
   background-image: url(../../../images/header-logo.svg);
-  /*position: absolute;
-  top: 0;
-  left: 0;*/
+  background-size: cover;
   align-self: start;
+}
+
+@media screen and (max-width: 767px) {
+  .header__logo {
+    width: 142px;
+    height: 42px;
+  }
 }

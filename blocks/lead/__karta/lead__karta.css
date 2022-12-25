@@ -1,6 +1,4 @@
 .lead__karta {
   width: 95%;
-  position: absolute;
-  top: 85px;
-  left: 21px;
+  padding: 85px 22px 246px;
 }
