@@ -1,9 +1,17 @@
 .lead__image {
-  margin: 0;
-  background-image: url(../../../images/lead-polka.jpg);
-  width: 928px;
-  height: 580px;
+  width: 100%;
+  background-image: url(../../../images/lead-polka-m.jpg);
   background-size: cover;
-  background-position: top;
-  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
 }
+
+@media screen and (max-width: 767px) {
+  .lead__image {
+    background-image: url(../../../images/lead-polka-s.jpg);
+  }
+}
+
+
