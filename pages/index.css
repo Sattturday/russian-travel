@@ -32,12 +32,14 @@
 @import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
 
-/* &#8722;
-*/
 
-/* заготовка для медиазапросов:
 
+/* шаблоны для медиазапросов:
 
 @media screen and (max-width: 1279px) {
   . {
@@ -62,4 +64,5 @@
 
   }
 }
+
 */
