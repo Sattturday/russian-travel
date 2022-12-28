@@ -21,7 +21,7 @@
 
 **GitHub Pages**
 
-* [Ссылка на проект в GitHub Pages](...)
+* [Ссылка на проект в GitHub Pages](https://sattturday.github.io/russian-travel/)
 
 **Планы на будущее**
 
