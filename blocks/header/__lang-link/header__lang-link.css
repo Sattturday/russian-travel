@@ -3,9 +3,14 @@
   line-height: 1.2;
   font-weight: normal;
   color: #FFF;
+  text-decoration: none;
   margin-left: 18px;
+  transition: opacity .5s linear;
 }
 
+.header__lang-link:hover {
+  opacity: .8;
+}
 
 @media screen and (max-width: 767px) {
   .header__lang-link {

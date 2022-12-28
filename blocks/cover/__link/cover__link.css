@@ -1,0 +1,40 @@
+.cover__link {
+  color: #fff;
+  text-decoration: none;
+  background-color: rgba(42, 44, 47, 0.3);
+  padding: 245px 312px ;
+}
+
+.cover__link:hover {
+  background-color: rgba(42, 44, 47, 0.8);
+}
+
+@media screen and (max-width: 1279px) {
+  .cover__link {
+  padding: 195px 232px ;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .cover__link {
+    padding: 115px 104px ;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover__link {
+    padding: 75px 45px ;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .cover__link {
+    padding: 54px 30px ;
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .cover__link {
+    padding: 33px 16px ;
+  }
+}
