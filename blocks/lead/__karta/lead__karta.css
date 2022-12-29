@@ -1,5 +1,17 @@
 .lead__karta {
-  padding: 9% 3% 28%;
+  padding: 9% 3% 27%;
   object-fit: cover;
   object-position: center;
+  background-image: url(../../../images/lead-polka-m.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
+
+/*
+@media screen and (max-width: 767px) {
+  .lead__karta {
+    background-image: url(../../../images/lead-polka-s.jpg);
+  }
+}
+*/

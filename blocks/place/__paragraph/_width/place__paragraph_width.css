@@ -1,0 +1,9 @@
+.place__paragraph_width {
+  max-width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+  .place__paragraph_width {
+    max-width: 95%;
+  }
+}
