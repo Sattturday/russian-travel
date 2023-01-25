@@ -2,7 +2,6 @@
   min-width: 72.5%;
   padding: 28px 48px 56px;
   display: flex;
-  justify-content: space-between;
   align-items: flex-end;
 }
 
@@ -23,4 +22,3 @@
     padding: 16px 16px 48px;
   }
 }
-
